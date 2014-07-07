@@ -49,6 +49,8 @@ hi DiffDelete	ctermfg=234		ctermbg=60		cterm=none		guifg=#242424	guibg=#3e3969	g
 hi DiffText						ctermbg=53		cterm=none						guibg=#73186e	gui=none
 hi DiffChange					ctermbg=237										guibg=#382a37
 
+hi SignColumn   ctermfg=252     ctermbg=232     cterm=none      guifg=#e3e0d7   guibg=#080808   gui=none
+
 "hi CursorIM
 "hi Directory
 "hi IncSearch
@@ -59,7 +61,6 @@ hi DiffChange					ctermbg=237										guibg=#382a37
 "hi PmenuThumb
 "hi Question
 "hi Scrollbar
-"hi SignColumn
 "hi SpellBad
 "hi SpellCap
 "hi SpellLocal
